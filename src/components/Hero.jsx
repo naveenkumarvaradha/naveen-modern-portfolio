@@ -5,10 +5,11 @@ import './Hero.css';
 const Hero = () => (
   <section className="hero">
     <div className="hero-left">
-      <img src="/profile.jpg" alt="Naveenkumar Vara" className="hero-image" />
+      <img src="/profile.jpg" alt="Naveenkumar Varadharaj" className="hero-image" />
     </div>
     <div className="hero-right" data-aos="fade-left">
-      <h1>Naveenkumar</h1>
+
+      <h1>Naveenkumar V</h1>
       <h2>ERP Techno-Functional Specialist </h2>
       <p>
         I’m a dedicated ERP specialist with hands-on experience in Datatex and WFX ERP systems,
