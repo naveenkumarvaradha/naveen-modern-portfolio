@@ -9,7 +9,7 @@ const Hero = () => (
     </div>
     <div className="hero-right" data-aos="fade-left">
       <h1>Naveenkumar V</h1>
-      <h2>ERP Techno-Functional Specialist</h2>
+      <h2>ERP Techno-Functional </h2>
       <p>
         I’m a dedicated ERP specialist with hands-on experience in Datatex and WFX ERP systems,
         focused on driving digital transformation through business process optimization and IT enablement.
