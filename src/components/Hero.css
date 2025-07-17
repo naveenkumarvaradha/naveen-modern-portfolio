@@ -16,11 +16,11 @@
 }
 
 .hero-image {
-  max-height: 480px;
-  width: auto;
-  object-fit: contain;
-  border-radius: 8px;
+  width: 300px; /* or 350px or 400px */
+  border-radius: 1rem; /* optional: keeps rounded corners */
+  object-fit: cover;   /* optional: ensures nice image scaling */
 }
+
 
 .hero-right {
   flex: 1;
