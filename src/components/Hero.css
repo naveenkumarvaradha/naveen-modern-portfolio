@@ -16,7 +16,7 @@
 }
 
 .hero-image {
-  width: 480px; /* or 350px or 400px */
+  width: 350px; /* or 350px or 400px */
   border-radius: 1rem; /* optional: keeps rounded corners */
   object-fit: cover;   /* optional: ensures nice image scaling */
 }
