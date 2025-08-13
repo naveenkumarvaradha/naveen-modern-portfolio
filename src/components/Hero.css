@@ -9,11 +9,12 @@
 }
 
 .hero-left {
-  flex: 1;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 20px;
 }
+
 
 .hero-image {
   width: 350px;
