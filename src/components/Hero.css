@@ -16,10 +16,13 @@
 }
 
 .hero-image {
-  width: 350px; /* or 350px or 400px */
-  border-radius: 1rem; /* optional: keeps rounded corners */
-  object-fit: cover;   /* optional: ensures nice image scaling */
+  width: 350px;
+  object-fit: contain;  /* Keeps full image without cropping */
+  border-radius: 0;     /* No rounded corners for clean cut-out look */
+  background-color: transparent; /* Ensure no white box shows */
+  filter: drop-shadow(0 5px 15px rgba(0, 0, 0, 0.5)); /* Optional shadow for depth */
 }
+
 
 
 .hero-right {
