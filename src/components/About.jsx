@@ -4,7 +4,7 @@ const About = () => (
   <section id="about" data-aos="fade-up">
     <h2>About Me</h2>
     <p>
-      I'm an ERP Techno-Functional Specialist based in Coimbatore with experience in implementing, configuring,
+      I'm an  Techno-Functional Specialist based in Coimbatore with experience in implementing, configuring,
       and supporting enterprise ERP systems like Datatex and WFX. My expertise spans procurement, sourcing,
       inventory, planning, and supplier management.
     </p>
